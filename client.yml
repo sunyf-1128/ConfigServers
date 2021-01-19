@@ -5,3 +5,4 @@ spring:
     consul:
       port: 8500
       host: localhost
+name: test
